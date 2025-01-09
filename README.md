@@ -3,8 +3,8 @@
 - 👀 I’m interested in **Data Analytics, Machine Learning, Financial Anylytics, and Business Intelligence**.
 - 🌱 I’m currently learning **Data Mining, and Machine Learning** with tools like Python, Pandas, and Scikit-learn.
 - 📫 How to reach me:
-  - Email: [ayoub.achmir92@gmail.com]
-  - LinkedIn: [https://www.linkedin.com/in/ayoub-achmir-a12590194/]
+  - Email: [ayoub.achmir92@gmail.com](ayoub.achmir92@gmail.com)
+  - LinkedIn: [https://www.linkedin.com/in/ayoub-achmir-a12590194/](https://www.linkedin.com/in/ayoub-achmir-a12590194/)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love exploring data trends as much as discovering new coffee blends! ☕
 
